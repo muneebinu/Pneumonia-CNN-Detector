@@ -18,7 +18,7 @@ This project is a **desktop-based pneumonia detection system** built using a **C
 
 ## 🖼️ GUI Preview
 
-![GUI Screenshot](GUI.png)
+![GUI Screenshot](gui.png)
 > *A simple GUI built with Tkinter. Allows users to upload chest X-ray images and get instant prediction results with spoken output.*
 
 ---
