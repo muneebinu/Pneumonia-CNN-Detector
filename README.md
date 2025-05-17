@@ -29,12 +29,7 @@ This project is a **desktop-based pneumonia detection system** built using a **C
 
 ```bash
 pip install tensorflow keras gtts pygame pillow
-👥 Authors
-Muneeb
-
-Adil
-
-Developed as part of a deep learning project to detect pneumonia from medical images.
+Developed by Muneeb as part of a deep learning project to detect pneumonia from medical images.
 📄 License
 This project is intended for educational and research purposes only.
 Feel free to modify and extend it with proper attribution.
